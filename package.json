@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "image-to-pdf": "^2.0.0",
+    "jpeg-autorotate": "^9.0.0",
+    "sharp": "^0.33.5"
+  },
+  "name": "img2pdf",
+  "version": "1.0.0",
+  "main": "img2pdf.js",
+  "scripts": {
+    "start": "node img2pdf.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

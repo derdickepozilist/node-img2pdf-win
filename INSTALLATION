@@ -1,0 +1,6 @@
+# Installation
+1. open the project folder in your explorer and double-click on 01_npm_install.bat
+2. create a Shortcut to "landscape.bat" with right click->Make shortcut
+3. double-click on 02_go_to_sendto.bat
+4. move the Shortcut there and call it "Make PDF landscape"
+5. do the same with "portrait.bat", naming it "Make PDF portrait"
