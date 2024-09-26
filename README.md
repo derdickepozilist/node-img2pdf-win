@@ -47,8 +47,8 @@ Works with multiple files at once, too, creating both pdfs for each image you se
 
 ## Authors and acknowledgment
 
-Vision: Dominik Niemanns  
-Development: Daniel Jürgen
+Vision: alcatel-user  
+Development: DerDickePozilist
 
 
 ## Credits
